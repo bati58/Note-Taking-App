@@ -1,4 +1,4 @@
-Antigravity Notes – Full‑Stack App
+Note Taking App – Full‑Stack App
 ==================================
 
 ### Backend (FastAPI)
