@@ -1,0 +1,47 @@
+# ----------------------------------------
+# 1. PYTHON AND FASTAPI BACKEND
+# ----------------------------------------
+
+# Python Virtual Environments
+venv/
+backend/venv/
+
+# Byte-code and Cache files
+__pycache__/
+*.pyc
+*.sqlite3
+*.db
+.env
+
+
+# ----------------------------------------
+# 2. JAVASCRIPT / NODE / FRONTEND
+# ----------------------------------------
+
+# Node Modules (Dependencies)
+node_modules/
+frontend/node_modules/
+
+# Build and Distribution folders
+dist/
+build/
+coverage/
+
+# Node-specific log and lock files
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+
+
+# ----------------------------------------
+# 3. OS AND IDE FILES
+# ----------------------------------------
+
+# Operating System (macOS)
+.DS_Store
+
+# IDE/Editor Files
+.idea/
+.vscode/
